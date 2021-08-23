@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_fragment.xml",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/main_fragment.xml"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_activity.xml",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/main_activity.xml"
+    }
+]
