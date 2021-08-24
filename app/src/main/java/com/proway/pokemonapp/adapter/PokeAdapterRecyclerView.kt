@@ -4,6 +4,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.bumptech.glide.Glide
 import com.proway.pokemonapp.R
 import com.proway.pokemonapp.databinding.OnePokemonBinding
 import com.proway.pokemonapp.model.Pokemon
@@ -38,7 +39,13 @@ class PokemonViewHolder(itemView : View) : RecyclerView.ViewHolder(itemView) {
 
     fun bind(pokemon: Pokemon) {
 
-        binding.idTextView.text = "#${pokemon.extractIdFromUrl()}"
+        binding.idTextView.text = "#${pokemon.extractIdFromUrl(withPads = true)}"
         binding.nameTextView.text = pokemon.name
+
+        pokemon.details?.let {
+            Glide.with(itemView.context)
+                .load(it.sprites.other.artwork?.image)
+                .into(binding.avatarImageView)
+        }
     }
 }

@@ -22,7 +22,7 @@ class MainViewModel : ViewModel() {
         repository.fetchAll { response, error ->
             response?.let {
                 _pokemons.value = it.results
-                repository.insertIntoDatabase(it.results)
+                loadPokeDetails(it.results, repository)
             }
             error?.let {
                 _error.value = it
@@ -37,6 +37,17 @@ class MainViewModel : ViewModel() {
         }
         else {
             fetchAllFromServer(context)
+        }
+    }
+
+    private fun loadPokeDetails(pokemons: List<Pokemon>, repository: PokemonRepository) {
+        pokemons.forEach { poke ->
+            repository.fetchPokemonDetails(pokeId = poke.extractIdFromUrl()) { details, _ ->
+                details?.let {
+                    poke.details = details
+                    repository.insertIntoDatabase(poke)
+                }
+            }
         }
     }
 }

@@ -1,5 +1,3 @@
-com/proway/pokemonapp/BuildConfig.java
- com.proway.pokemonapp.BuildConfig
 com/proway/pokemonapp/database/AppDataBase_Impl.java
  com.proway.pokemonapp.database.AppDataBase_Impl
  com.proway.pokemonapp.database.AppDataBase_Impl$1
@@ -12,3 +10,5 @@ com/proway/pokemonapp/databinding/MainFragmentBinding.java
 com/proway/pokemonapp/database/dao/PokemonDAO_Impl.java
  com.proway.pokemonapp.database.dao.PokemonDAO_Impl
  com.proway.pokemonapp.database.dao.PokemonDAO_Impl$1
+com/proway/pokemonapp/BuildConfig.java
+ com.proway.pokemonapp.BuildConfig

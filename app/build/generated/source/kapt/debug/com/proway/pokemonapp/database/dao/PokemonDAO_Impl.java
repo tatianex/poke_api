@@ -7,7 +7,11 @@ import androidx.room.RoomSQLiteQuery;
 import androidx.room.util.CursorUtil;
 import androidx.room.util.DBUtil;
 import androidx.sqlite.db.SupportSQLiteStatement;
+import com.proway.pokemonapp.model.Artwork;
+import com.proway.pokemonapp.model.Other;
 import com.proway.pokemonapp.model.Pokemon;
+import com.proway.pokemonapp.model.PokemonDetails;
+import com.proway.pokemonapp.model.Sprites;
 import java.lang.Class;
 import java.lang.Override;
 import java.lang.String;
@@ -27,7 +31,7 @@ public final class PokemonDAO_Impl implements PokemonDAO {
     this.__insertionAdapterOfPokemon = new EntityInsertionAdapter<Pokemon>(__db) {
       @Override
       public String createQuery() {
-        return "INSERT OR REPLACE INTO `table_pokemon` (`poke_name`,`poke_url`) VALUES (?,?)";
+        return "INSERT OR REPLACE INTO `table_pokemon` (`poke_name`,`poke_url`,`details_id`,`sprites_id`,`other_id`,`artwork_id`,`image`) VALUES (?,?,?,?,?,?,?)";
       }
 
       @Override
@@ -41,6 +45,45 @@ public final class PokemonDAO_Impl implements PokemonDAO {
           stmt.bindNull(2);
         } else {
           stmt.bindString(2, value.getUrl());
+        }
+        final PokemonDetails _tmpDetails = value.getDetails();
+        if(_tmpDetails != null) {
+          stmt.bindLong(3, _tmpDetails.getId());
+          final Sprites _tmpSprites = _tmpDetails.getSprites();
+          if(_tmpSprites != null) {
+            stmt.bindLong(4, _tmpSprites.getId());
+            final Other _tmpOther = _tmpSprites.getOther();
+            if(_tmpOther != null) {
+              stmt.bindLong(5, _tmpOther.getId());
+              final Artwork _tmpArtwork = _tmpOther.getArtwork();
+              if(_tmpArtwork != null) {
+                stmt.bindLong(6, _tmpArtwork.getId());
+                if (_tmpArtwork.getImage() == null) {
+                  stmt.bindNull(7);
+                } else {
+                  stmt.bindString(7, _tmpArtwork.getImage());
+                }
+              } else {
+                stmt.bindNull(6);
+                stmt.bindNull(7);
+              }
+            } else {
+              stmt.bindNull(5);
+              stmt.bindNull(6);
+              stmt.bindNull(7);
+            }
+          } else {
+            stmt.bindNull(4);
+            stmt.bindNull(5);
+            stmt.bindNull(6);
+            stmt.bindNull(7);
+          }
+        } else {
+          stmt.bindNull(3);
+          stmt.bindNull(4);
+          stmt.bindNull(5);
+          stmt.bindNull(6);
+          stmt.bindNull(7);
         }
       }
     };
@@ -67,6 +110,11 @@ public final class PokemonDAO_Impl implements PokemonDAO {
     try {
       final int _cursorIndexOfName = CursorUtil.getColumnIndexOrThrow(_cursor, "poke_name");
       final int _cursorIndexOfUrl = CursorUtil.getColumnIndexOrThrow(_cursor, "poke_url");
+      final int _cursorIndexOfId = CursorUtil.getColumnIndexOrThrow(_cursor, "details_id");
+      final int _cursorIndexOfId_1 = CursorUtil.getColumnIndexOrThrow(_cursor, "sprites_id");
+      final int _cursorIndexOfId_2 = CursorUtil.getColumnIndexOrThrow(_cursor, "other_id");
+      final int _cursorIndexOfId_3 = CursorUtil.getColumnIndexOrThrow(_cursor, "artwork_id");
+      final int _cursorIndexOfImage = CursorUtil.getColumnIndexOrThrow(_cursor, "image");
       final List<Pokemon> _result = new ArrayList<Pokemon>(_cursor.getCount());
       while(_cursor.moveToNext()) {
         final Pokemon _item;
@@ -82,7 +130,45 @@ public final class PokemonDAO_Impl implements PokemonDAO {
         } else {
           _tmpUrl = _cursor.getString(_cursorIndexOfUrl);
         }
-        _item = new Pokemon(_tmpName,_tmpUrl);
+        final PokemonDetails _tmpDetails;
+        if (! (_cursor.isNull(_cursorIndexOfId) && _cursor.isNull(_cursorIndexOfId_1) && _cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+          final int _tmpId;
+          _tmpId = _cursor.getInt(_cursorIndexOfId);
+          final Sprites _tmpSprites;
+          if (! (_cursor.isNull(_cursorIndexOfId_1) && _cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+            final int _tmpId_1;
+            _tmpId_1 = _cursor.getInt(_cursorIndexOfId_1);
+            final Other _tmpOther;
+            if (! (_cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+              final int _tmpId_2;
+              _tmpId_2 = _cursor.getInt(_cursorIndexOfId_2);
+              final Artwork _tmpArtwork;
+              if (! (_cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+                final int _tmpId_3;
+                _tmpId_3 = _cursor.getInt(_cursorIndexOfId_3);
+                final String _tmpImage;
+                if (_cursor.isNull(_cursorIndexOfImage)) {
+                  _tmpImage = null;
+                } else {
+                  _tmpImage = _cursor.getString(_cursorIndexOfImage);
+                }
+                _tmpArtwork = new Artwork(_tmpId_3,_tmpImage);
+              }  else  {
+                _tmpArtwork = null;
+              }
+              _tmpOther = new Other(_tmpId_2,_tmpArtwork);
+            }  else  {
+              _tmpOther = null;
+            }
+            _tmpSprites = new Sprites(_tmpId_1,_tmpOther);
+          }  else  {
+            _tmpSprites = null;
+          }
+          _tmpDetails = new PokemonDetails(_tmpId,_tmpSprites);
+        }  else  {
+          _tmpDetails = null;
+        }
+        _item = new Pokemon(_tmpName,_tmpUrl,_tmpDetails);
         _result.add(_item);
       }
       return _result;
@@ -107,6 +193,11 @@ public final class PokemonDAO_Impl implements PokemonDAO {
     try {
       final int _cursorIndexOfName = CursorUtil.getColumnIndexOrThrow(_cursor, "poke_name");
       final int _cursorIndexOfUrl = CursorUtil.getColumnIndexOrThrow(_cursor, "poke_url");
+      final int _cursorIndexOfId = CursorUtil.getColumnIndexOrThrow(_cursor, "details_id");
+      final int _cursorIndexOfId_1 = CursorUtil.getColumnIndexOrThrow(_cursor, "sprites_id");
+      final int _cursorIndexOfId_2 = CursorUtil.getColumnIndexOrThrow(_cursor, "other_id");
+      final int _cursorIndexOfId_3 = CursorUtil.getColumnIndexOrThrow(_cursor, "artwork_id");
+      final int _cursorIndexOfImage = CursorUtil.getColumnIndexOrThrow(_cursor, "image");
       final Pokemon _result;
       if(_cursor.moveToFirst()) {
         final String _tmpName;
@@ -121,7 +212,45 @@ public final class PokemonDAO_Impl implements PokemonDAO {
         } else {
           _tmpUrl = _cursor.getString(_cursorIndexOfUrl);
         }
-        _result = new Pokemon(_tmpName,_tmpUrl);
+        final PokemonDetails _tmpDetails;
+        if (! (_cursor.isNull(_cursorIndexOfId) && _cursor.isNull(_cursorIndexOfId_1) && _cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+          final int _tmpId;
+          _tmpId = _cursor.getInt(_cursorIndexOfId);
+          final Sprites _tmpSprites;
+          if (! (_cursor.isNull(_cursorIndexOfId_1) && _cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+            final int _tmpId_1;
+            _tmpId_1 = _cursor.getInt(_cursorIndexOfId_1);
+            final Other _tmpOther;
+            if (! (_cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+              final int _tmpId_2;
+              _tmpId_2 = _cursor.getInt(_cursorIndexOfId_2);
+              final Artwork _tmpArtwork;
+              if (! (_cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+                final int _tmpId_3;
+                _tmpId_3 = _cursor.getInt(_cursorIndexOfId_3);
+                final String _tmpImage;
+                if (_cursor.isNull(_cursorIndexOfImage)) {
+                  _tmpImage = null;
+                } else {
+                  _tmpImage = _cursor.getString(_cursorIndexOfImage);
+                }
+                _tmpArtwork = new Artwork(_tmpId_3,_tmpImage);
+              }  else  {
+                _tmpArtwork = null;
+              }
+              _tmpOther = new Other(_tmpId_2,_tmpArtwork);
+            }  else  {
+              _tmpOther = null;
+            }
+            _tmpSprites = new Sprites(_tmpId_1,_tmpOther);
+          }  else  {
+            _tmpSprites = null;
+          }
+          _tmpDetails = new PokemonDetails(_tmpId,_tmpSprites);
+        }  else  {
+          _tmpDetails = null;
+        }
+        _result = new Pokemon(_tmpName,_tmpUrl,_tmpDetails);
       } else {
         _result = null;
       }
