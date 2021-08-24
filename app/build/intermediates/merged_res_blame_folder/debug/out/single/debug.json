@@ -60,6 +60,10 @@
         "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/layout_one_pokemon.xml.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/one_pokemon.xml"
+    },
+    {
         "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
         "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     }

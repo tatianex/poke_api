@@ -27,7 +27,7 @@ public final class PokemonDAO_Impl implements PokemonDAO {
     this.__insertionAdapterOfPokemon = new EntityInsertionAdapter<Pokemon>(__db) {
       @Override
       public String createQuery() {
-        return "INSERT OR ABORT INTO `table_pokemon` (`poke_name`,`poke_url`) VALUES (?,?)";
+        return "INSERT OR REPLACE INTO `table_pokemon` (`poke_name`,`poke_url`) VALUES (?,?)";
       }
 
       @Override

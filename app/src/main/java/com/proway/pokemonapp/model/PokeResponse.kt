@@ -19,4 +19,10 @@ data class Pokemon(
     @ColumnInfo(name = "poke_url")
     @SerializedName("url")
     val url: String
-)
+) {
+
+    fun extractIdFromUrl(withPads: Boolean = false) : String {
+        val listStr = url.split("/")
+        return if (withPads) listStr[6].padStart(4, '0') else listStr[6]
+    }
+}

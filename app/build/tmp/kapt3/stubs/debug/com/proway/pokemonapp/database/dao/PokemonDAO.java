@@ -15,7 +15,7 @@ public abstract interface PokemonDAO {
     public abstract com.proway.pokemonapp.model.Pokemon byId(@org.jetbrains.annotations.NotNull()
     java.lang.String pokeId);
     
-    @androidx.room.Insert()
+    @androidx.room.Insert(onConflict = androidx.room.OnConflictStrategy.REPLACE)
     public abstract void insert(@org.jetbrains.annotations.NotNull()
     com.proway.pokemonapp.model.Pokemon pokemon);
 }

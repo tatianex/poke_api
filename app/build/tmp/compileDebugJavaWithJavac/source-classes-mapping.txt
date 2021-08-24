@@ -1,6 +1,8 @@
 com/proway/pokemonapp/database/AppDataBase_Impl.java
  com.proway.pokemonapp.database.AppDataBase_Impl
  com.proway.pokemonapp.database.AppDataBase_Impl$1
+com/proway/pokemonapp/databinding/OnePokemonBinding.java
+ com.proway.pokemonapp.databinding.OnePokemonBinding
 com/proway/pokemonapp/databinding/MainActivityBinding.java
  com.proway.pokemonapp.databinding.MainActivityBinding
 com/proway/pokemonapp/databinding/MainFragmentBinding.java

@@ -1914,6 +1914,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id avatarImageView
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -2034,10 +2035,13 @@ id honorRequest
 id horizontal_only
 id icon
 id icon_group
+id idTextView
 id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imgPattern
+id imgPokeBall
 id immediateStop
 id included
 id info
@@ -2114,6 +2118,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id nameTextView
 id navigation_bar_item_icon_view
 id navigation_bar_item_labels_group
 id navigation_bar_item_large_label_view
@@ -2147,6 +2152,7 @@ id pathRelative
 id peekHeight
 id percent
 id pin
+id pokemonRecyclerView
 id position
 id postLayout
 id progress_circular
@@ -2428,6 +2434,7 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout one_pokemon
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material

@@ -4,10 +4,10 @@ package com.proway.pokemonapp.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.proway.pokemonapp.R;
@@ -23,13 +23,13 @@ public final class MainFragmentBinding implements ViewBinding {
   public final ConstraintLayout main;
 
   @NonNull
-  public final TextView message;
+  public final RecyclerView pokemonRecyclerView;
 
   private MainFragmentBinding(@NonNull ConstraintLayout rootView, @NonNull ConstraintLayout main,
-      @NonNull TextView message) {
+      @NonNull RecyclerView pokemonRecyclerView) {
     this.rootView = rootView;
     this.main = main;
-    this.message = message;
+    this.pokemonRecyclerView = pokemonRecyclerView;
   }
 
   @Override
@@ -61,13 +61,13 @@ public final class MainFragmentBinding implements ViewBinding {
     missingId: {
       ConstraintLayout main = (ConstraintLayout) rootView;
 
-      id = R.id.message;
-      TextView message = ViewBindings.findChildViewById(rootView, id);
-      if (message == null) {
+      id = R.id.pokemonRecyclerView;
+      RecyclerView pokemonRecyclerView = ViewBindings.findChildViewById(rootView, id);
+      if (pokemonRecyclerView == null) {
         break missingId;
       }
 
-      return new MainFragmentBinding((ConstraintLayout) rootView, main, message);
+      return new MainFragmentBinding((ConstraintLayout) rootView, main, pokemonRecyclerView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
