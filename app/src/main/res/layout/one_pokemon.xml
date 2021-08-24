@@ -20,7 +20,7 @@
            android:layout_marginTop="24dp"
            android:layout_marginEnd="12dp"
            android:layout_marginBottom="16dp"
-           app:cardBackgroundColor="@color/purple_200"
+           app:cardBackgroundColor="@color/teal_200"
            app:cardCornerRadius="20dp"
            app:cardMaxElevation="10dp">
 
@@ -30,8 +30,8 @@
 
                <TextView
                    android:id="@+id/idTextView"
-                   android:layout_width="226dp"
-                   android:layout_height="19dp"
+                   android:layout_width="0dp"
+                   android:layout_height="wrap_content"
                    android:layout_margin="16dp"
                    android:fontFamily="sans-serif-medium"
                    android:textColor="@color/white"
@@ -60,7 +60,7 @@
                    android:layout_width="wrap_content"
                    android:layout_height="0dp"
                    android:scaleType="centerCrop"
-                   android:src="@drawable/ic_launcher_background"
+                   android:src="@drawable/img_pokeball"
                    app:layout_constraintBottom_toBottomOf="parent"
                    app:layout_constraintTop_toTopOf="parent"
                    app:layout_constraintEnd_toEndOf="parent"/>
@@ -70,7 +70,7 @@
                    android:layout_width="wrap_content"
                    android:layout_height="0dp"
                    android:layout_marginTop="8dp"
-                   android:src="@drawable/ic_launcher_background"
+                   android:src="@drawable/img_pattern"
                    app:layout_constraintEnd_toStartOf="@+id/imgPokeBall"
                    app:layout_constraintStart_toStartOf="parent"
                    app:layout_constraintTop_toTopOf="parent" />
@@ -86,7 +86,7 @@
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:layout_marginEnd="20dp"
-        android:src="@drawable/ic_launcher_background"
+        android:src="@mipmap/ic_launcher"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:visibility="invisible" />

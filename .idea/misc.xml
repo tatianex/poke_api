@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/img_pattern.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/img_pokeball.xml" value="0.1" />
         <entry key="app/src/main/res/layout/main_activity.xml" value="0.1766304347826087" />
         <entry key="app/src/main/res/layout/main_fragment.xml" value="0.1766304347826087" />
         <entry key="app/src/main/res/layout/one_pokemon.xml" value="0.335" />

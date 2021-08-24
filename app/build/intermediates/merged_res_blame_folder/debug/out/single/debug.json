@@ -1,15 +1,7 @@
 [
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_img_pattern.png.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/img_pattern.png"
     },
     {
         "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
@@ -32,12 +24,8 @@
         "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/main_activity.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
-    },
-    {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_img_pattern.png.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/img_pattern.png"
     },
     {
         "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
@@ -48,8 +36,12 @@
         "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_img_pattern.png.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/img_pattern.png"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_img_pokeball.png.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/img_pokeball.png"
     },
     {
         "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
@@ -60,11 +52,75 @@
         "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_img_pokeball.png.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/img_pokeball.png"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_img_pattern.png.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/img_pattern.png"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_img_pattern.png.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/img_pattern.png"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_img_pokeball.png.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/img_pokeball.png"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_img_pattern.xml.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/img_pattern.xml"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_img_pokeball.png.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/img_pokeball.png"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_img_pokeball.png.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/img_pokeball.png"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_img_pattern.png.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/img_pattern.png"
+    },
+    {
         "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/layout_one_pokemon.xml.flat",
         "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/one_pokemon.xml"
     },
     {
         "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
         "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_img_pokeball.xml.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/img_pokeball.xml"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_img_pokeball.png.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/img_pokeball.png"
     }
 ]
