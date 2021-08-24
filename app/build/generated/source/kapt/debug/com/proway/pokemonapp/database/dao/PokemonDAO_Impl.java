@@ -7,11 +7,14 @@ import androidx.room.RoomSQLiteQuery;
 import androidx.room.util.CursorUtil;
 import androidx.room.util.DBUtil;
 import androidx.sqlite.db.SupportSQLiteStatement;
+import com.proway.pokemonapp.database.Converters;
 import com.proway.pokemonapp.model.Artwork;
 import com.proway.pokemonapp.model.Other;
 import com.proway.pokemonapp.model.Pokemon;
 import com.proway.pokemonapp.model.PokemonDetails;
+import com.proway.pokemonapp.model.PokemonType;
 import com.proway.pokemonapp.model.Sprites;
+import com.proway.pokemonapp.model.Types;
 import java.lang.Class;
 import java.lang.Override;
 import java.lang.String;
@@ -26,12 +29,16 @@ public final class PokemonDAO_Impl implements PokemonDAO {
 
   private final EntityInsertionAdapter<Pokemon> __insertionAdapterOfPokemon;
 
+  private final Converters __converters = new Converters();
+
+  private final EntityInsertionAdapter<Types> __insertionAdapterOfTypes;
+
   public PokemonDAO_Impl(RoomDatabase __db) {
     this.__db = __db;
     this.__insertionAdapterOfPokemon = new EntityInsertionAdapter<Pokemon>(__db) {
       @Override
       public String createQuery() {
-        return "INSERT OR REPLACE INTO `table_pokemon` (`poke_name`,`poke_url`,`details_id`,`sprites_id`,`other_id`,`artwork_id`,`image`) VALUES (?,?,?,?,?,?,?)";
+        return "INSERT OR REPLACE INTO `table_pokemon` (`poke_name`,`poke_url`,`details_id`,`type`,`sprites_id`,`other_id`,`artwork_id`,`image`) VALUES (?,?,?,?,?,?,?,?)";
       }
 
       @Override
@@ -49,34 +56,41 @@ public final class PokemonDAO_Impl implements PokemonDAO {
         final PokemonDetails _tmpDetails = value.getDetails();
         if(_tmpDetails != null) {
           stmt.bindLong(3, _tmpDetails.getId());
+          final String _tmp;
+          _tmp = __converters.listToJson(_tmpDetails.getType());
+          if (_tmp == null) {
+            stmt.bindNull(4);
+          } else {
+            stmt.bindString(4, _tmp);
+          }
           final Sprites _tmpSprites = _tmpDetails.getSprites();
           if(_tmpSprites != null) {
-            stmt.bindLong(4, _tmpSprites.getId());
+            stmt.bindLong(5, _tmpSprites.getId());
             final Other _tmpOther = _tmpSprites.getOther();
             if(_tmpOther != null) {
-              stmt.bindLong(5, _tmpOther.getId());
+              stmt.bindLong(6, _tmpOther.getId());
               final Artwork _tmpArtwork = _tmpOther.getArtwork();
               if(_tmpArtwork != null) {
-                stmt.bindLong(6, _tmpArtwork.getId());
+                stmt.bindLong(7, _tmpArtwork.getId());
                 if (_tmpArtwork.getImage() == null) {
-                  stmt.bindNull(7);
+                  stmt.bindNull(8);
                 } else {
-                  stmt.bindString(7, _tmpArtwork.getImage());
+                  stmt.bindString(8, _tmpArtwork.getImage());
                 }
               } else {
-                stmt.bindNull(6);
                 stmt.bindNull(7);
+                stmt.bindNull(8);
               }
             } else {
-              stmt.bindNull(5);
               stmt.bindNull(6);
               stmt.bindNull(7);
+              stmt.bindNull(8);
             }
           } else {
-            stmt.bindNull(4);
             stmt.bindNull(5);
             stmt.bindNull(6);
             stmt.bindNull(7);
+            stmt.bindNull(8);
           }
         } else {
           stmt.bindNull(3);
@@ -84,6 +98,42 @@ public final class PokemonDAO_Impl implements PokemonDAO {
           stmt.bindNull(5);
           stmt.bindNull(6);
           stmt.bindNull(7);
+          stmt.bindNull(8);
+        }
+      }
+    };
+    this.__insertionAdapterOfTypes = new EntityInsertionAdapter<Types>(__db) {
+      @Override
+      public String createQuery() {
+        return "INSERT OR REPLACE INTO `Types` (`types_pokemon_id`,`pokemonFk`,`slot`,`pokemon_type_name`,`typeName`,`pokemon_type_url`) VALUES (nullif(?, 0),?,?,?,?,?)";
+      }
+
+      @Override
+      public void bind(SupportSQLiteStatement stmt, Types value) {
+        stmt.bindLong(1, value.getId());
+        stmt.bindLong(2, value.getPokemonFk());
+        if (value.getSlot() == null) {
+          stmt.bindNull(3);
+        } else {
+          stmt.bindString(3, value.getSlot());
+        }
+        final PokemonType _tmpType = value.getType();
+        if(_tmpType != null) {
+          stmt.bindLong(4, _tmpType.getId());
+          if (_tmpType.getTypeName() == null) {
+            stmt.bindNull(5);
+          } else {
+            stmt.bindString(5, _tmpType.getTypeName());
+          }
+          if (_tmpType.getTypeUrl() == null) {
+            stmt.bindNull(6);
+          } else {
+            stmt.bindString(6, _tmpType.getTypeUrl());
+          }
+        } else {
+          stmt.bindNull(4);
+          stmt.bindNull(5);
+          stmt.bindNull(6);
         }
       }
     };
@@ -102,6 +152,18 @@ public final class PokemonDAO_Impl implements PokemonDAO {
   }
 
   @Override
+  public void insertType(final List<Types> types) {
+    __db.assertNotSuspendingTransaction();
+    __db.beginTransaction();
+    try {
+      __insertionAdapterOfTypes.insert(types);
+      __db.setTransactionSuccessful();
+    } finally {
+      __db.endTransaction();
+    }
+  }
+
+  @Override
   public List<Pokemon> getAll() {
     final String _sql = "SELECT * FROM table_pokemon ORDER BY poke_name";
     final RoomSQLiteQuery _statement = RoomSQLiteQuery.acquire(_sql, 0);
@@ -111,6 +173,7 @@ public final class PokemonDAO_Impl implements PokemonDAO {
       final int _cursorIndexOfName = CursorUtil.getColumnIndexOrThrow(_cursor, "poke_name");
       final int _cursorIndexOfUrl = CursorUtil.getColumnIndexOrThrow(_cursor, "poke_url");
       final int _cursorIndexOfId = CursorUtil.getColumnIndexOrThrow(_cursor, "details_id");
+      final int _cursorIndexOfType = CursorUtil.getColumnIndexOrThrow(_cursor, "type");
       final int _cursorIndexOfId_1 = CursorUtil.getColumnIndexOrThrow(_cursor, "sprites_id");
       final int _cursorIndexOfId_2 = CursorUtil.getColumnIndexOrThrow(_cursor, "other_id");
       final int _cursorIndexOfId_3 = CursorUtil.getColumnIndexOrThrow(_cursor, "artwork_id");
@@ -131,9 +194,17 @@ public final class PokemonDAO_Impl implements PokemonDAO {
           _tmpUrl = _cursor.getString(_cursorIndexOfUrl);
         }
         final PokemonDetails _tmpDetails;
-        if (! (_cursor.isNull(_cursorIndexOfId) && _cursor.isNull(_cursorIndexOfId_1) && _cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+        if (! (_cursor.isNull(_cursorIndexOfId) && _cursor.isNull(_cursorIndexOfType) && _cursor.isNull(_cursorIndexOfId_1) && _cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
           final int _tmpId;
           _tmpId = _cursor.getInt(_cursorIndexOfId);
+          final List<Types> _tmpType;
+          final String _tmp;
+          if (_cursor.isNull(_cursorIndexOfType)) {
+            _tmp = null;
+          } else {
+            _tmp = _cursor.getString(_cursorIndexOfType);
+          }
+          _tmpType = __converters.jsonToList(_tmp);
           final Sprites _tmpSprites;
           if (! (_cursor.isNull(_cursorIndexOfId_1) && _cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
             final int _tmpId_1;
@@ -164,7 +235,7 @@ public final class PokemonDAO_Impl implements PokemonDAO {
           }  else  {
             _tmpSprites = null;
           }
-          _tmpDetails = new PokemonDetails(_tmpId,_tmpSprites);
+          _tmpDetails = new PokemonDetails(_tmpId,_tmpSprites,_tmpType);
         }  else  {
           _tmpDetails = null;
         }
@@ -194,6 +265,7 @@ public final class PokemonDAO_Impl implements PokemonDAO {
       final int _cursorIndexOfName = CursorUtil.getColumnIndexOrThrow(_cursor, "poke_name");
       final int _cursorIndexOfUrl = CursorUtil.getColumnIndexOrThrow(_cursor, "poke_url");
       final int _cursorIndexOfId = CursorUtil.getColumnIndexOrThrow(_cursor, "details_id");
+      final int _cursorIndexOfType = CursorUtil.getColumnIndexOrThrow(_cursor, "type");
       final int _cursorIndexOfId_1 = CursorUtil.getColumnIndexOrThrow(_cursor, "sprites_id");
       final int _cursorIndexOfId_2 = CursorUtil.getColumnIndexOrThrow(_cursor, "other_id");
       final int _cursorIndexOfId_3 = CursorUtil.getColumnIndexOrThrow(_cursor, "artwork_id");
@@ -213,9 +285,17 @@ public final class PokemonDAO_Impl implements PokemonDAO {
           _tmpUrl = _cursor.getString(_cursorIndexOfUrl);
         }
         final PokemonDetails _tmpDetails;
-        if (! (_cursor.isNull(_cursorIndexOfId) && _cursor.isNull(_cursorIndexOfId_1) && _cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+        if (! (_cursor.isNull(_cursorIndexOfId) && _cursor.isNull(_cursorIndexOfType) && _cursor.isNull(_cursorIndexOfId_1) && _cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
           final int _tmpId;
           _tmpId = _cursor.getInt(_cursorIndexOfId);
+          final List<Types> _tmpType;
+          final String _tmp;
+          if (_cursor.isNull(_cursorIndexOfType)) {
+            _tmp = null;
+          } else {
+            _tmp = _cursor.getString(_cursorIndexOfType);
+          }
+          _tmpType = __converters.jsonToList(_tmp);
           final Sprites _tmpSprites;
           if (! (_cursor.isNull(_cursorIndexOfId_1) && _cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
             final int _tmpId_1;
@@ -246,7 +326,7 @@ public final class PokemonDAO_Impl implements PokemonDAO {
           }  else  {
             _tmpSprites = null;
           }
-          _tmpDetails = new PokemonDetails(_tmpId,_tmpSprites);
+          _tmpDetails = new PokemonDetails(_tmpId,_tmpSprites,_tmpType);
         }  else  {
           _tmpDetails = null;
         }

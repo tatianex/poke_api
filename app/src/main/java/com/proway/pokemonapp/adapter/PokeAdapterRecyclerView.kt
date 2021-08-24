@@ -1,8 +1,10 @@
 package com.proway.pokemonapp.adapter
 
+import android.os.Build
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.annotation.RequiresApi
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.proway.pokemonapp.R
@@ -18,6 +20,7 @@ class PokeAdapterRecyclerView : RecyclerView.Adapter<PokemonViewHolder>() {
         return PokemonViewHolder(view)
     }
 
+    @RequiresApi(Build.VERSION_CODES.M)
     override fun onBindViewHolder(holder: PokemonViewHolder, position: Int) {
         pokemons[position].apply {
             holder.bind(this)
@@ -37,15 +40,23 @@ class PokemonViewHolder(itemView : View) : RecyclerView.ViewHolder(itemView) {
 
     private var binding: OnePokemonBinding = OnePokemonBinding.bind(itemView)
 
+    @RequiresApi(Build.VERSION_CODES.M)
     fun bind(pokemon: Pokemon) {
 
         binding.idTextView.text = "#${pokemon.extractIdFromUrl(withPads = true)}"
-        binding.nameTextView.text = pokemon.name
+        binding.nameTextView.text = pokemon.name.replaceFirstChar {
+            it.uppercase()
+        }
 
         pokemon.details?.let {
             Glide.with(itemView.context)
                 .load(it.sprites.other.artwork?.image)
                 .into(binding.avatarImageView)
+        }
+
+        pokemon.details?.let {
+            val bgColor = it.type[0].type.extractBgColor()
+            binding.cardItem.setCardBackgroundColor(itemView.context.getColor(bgColor))
         }
     }
 }

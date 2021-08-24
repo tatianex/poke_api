@@ -5,15 +5,20 @@ import androidx.room.Embedded
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 import com.google.gson.annotations.SerializedName
+import com.proway.pokemonapp.R
 
 @Entity
 data class PokemonDetails(
     @PrimaryKey(autoGenerate = true)
     @ColumnInfo(name = "details_id")
     val id: Int,
+
     @SerializedName("sprites")
     @Embedded
-    val sprites: Sprites
+    val sprites: Sprites,
+
+    @SerializedName("types")
+    val type: List<Types>
 )
 
 @Entity
@@ -44,3 +49,56 @@ data class Artwork(
     @SerializedName("front_default")
     val image: String?
 )
+@Entity
+data class Types(
+    @PrimaryKey(autoGenerate = true)
+    @ColumnInfo(name = "types_pokemon_id")
+    val id: Int,
+    var pokemonFk: Long,
+
+
+    @SerializedName("slot")
+    val slot: String,
+
+    @Embedded
+    @SerializedName("type")
+    val type: PokemonType,
+)
+
+@Entity
+data class PokemonType(
+    @PrimaryKey(autoGenerate = true)
+    @ColumnInfo(name = "pokemon_type_name")
+    val id: Int,
+
+    @SerializedName("name")
+    val typeName: String,
+
+    @ColumnInfo(name = "pokemon_type_url")
+    @SerializedName("url")
+    val typeUrl: String,
+) {
+
+    fun extractBgColor(): Int {
+        return when (typeName) {
+            "bug" -> R.color.bg_type_bug
+            "water" -> R.color.bg_type_water
+            "fairy" -> R.color.bg_type_fairy
+            "ghost" -> R.color.bg_type_ghost
+            "normal" -> R.color.bg_type_normal
+            "dark" -> R.color.bg_type_dark
+            "fighting" -> R.color.bg_type_fighting
+            "grass" -> R.color.bg_type_grass
+            "poison" -> R.color.bg_type_poison
+            "dragon" -> R.color.bg_type_dragon
+            "fire" -> R.color.bg_type_fire
+            "ground" -> R.color.bg_type_ground
+            "psychic" -> R.color.bg_type_psychic
+            "electric" -> R.color.bg_type_electric
+            "flying" -> R.color.bg_type_flying
+            "ice" -> R.color.bg_type_ice
+            "rock" -> R.color.bg_type_rock
+            else -> R.color.bg_type_normal
+        }
+    }
+}

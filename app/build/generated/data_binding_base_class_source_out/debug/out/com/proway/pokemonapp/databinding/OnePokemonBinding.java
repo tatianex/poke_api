@@ -8,6 +8,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.cardview.widget.CardView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
@@ -24,6 +25,9 @@ public final class OnePokemonBinding implements ViewBinding {
   public final ImageView avatarImageView;
 
   @NonNull
+  public final CardView cardItem;
+
+  @NonNull
   public final TextView idTextView;
 
   @NonNull
@@ -36,10 +40,11 @@ public final class OnePokemonBinding implements ViewBinding {
   public final TextView nameTextView;
 
   private OnePokemonBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView avatarImageView,
-      @NonNull TextView idTextView, @NonNull ImageView imgPattern, @NonNull ImageView imgPokeBall,
-      @NonNull TextView nameTextView) {
+      @NonNull CardView cardItem, @NonNull TextView idTextView, @NonNull ImageView imgPattern,
+      @NonNull ImageView imgPokeBall, @NonNull TextView nameTextView) {
     this.rootView = rootView;
     this.avatarImageView = avatarImageView;
+    this.cardItem = cardItem;
     this.idTextView = idTextView;
     this.imgPattern = imgPattern;
     this.imgPokeBall = imgPokeBall;
@@ -79,6 +84,12 @@ public final class OnePokemonBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.cardItem;
+      CardView cardItem = ViewBindings.findChildViewById(rootView, id);
+      if (cardItem == null) {
+        break missingId;
+      }
+
       id = R.id.idTextView;
       TextView idTextView = ViewBindings.findChildViewById(rootView, id);
       if (idTextView == null) {
@@ -103,8 +114,8 @@ public final class OnePokemonBinding implements ViewBinding {
         break missingId;
       }
 
-      return new OnePokemonBinding((ConstraintLayout) rootView, avatarImageView, idTextView,
-          imgPattern, imgPokeBall, nameTextView);
+      return new OnePokemonBinding((ConstraintLayout) rootView, avatarImageView, cardItem,
+          idTextView, imgPattern, imgPokeBall, nameTextView);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

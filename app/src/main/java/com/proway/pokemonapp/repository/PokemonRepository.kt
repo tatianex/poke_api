@@ -17,7 +17,7 @@ class PokemonRepository(private val context: Context) {
 
     fun fetchAll(onComplete: (PokeResponse?, String?) -> Unit) {
 
-        val call = service.getAll()
+        val call = service.getAll(151)
         call.enqueue(object : Callback<PokeResponse> {
 
             override fun onResponse(call: Call<PokeResponse>, response: Response<PokeResponse>) {
