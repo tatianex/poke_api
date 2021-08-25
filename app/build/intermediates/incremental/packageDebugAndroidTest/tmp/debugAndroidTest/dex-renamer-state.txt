@@ -1,0 +1,16 @@
+#Wed Aug 25 11:41:43 BRT 2021
+path.4=5/classes.dex
+path.3=14/classes.dex
+path.2=10/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.4=/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/5/classes.dex
+base.3=/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/14/classes.dex
+base.2=/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/10/classes.dex
+base.1=/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.0=/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+renamed.4=classes5.dex

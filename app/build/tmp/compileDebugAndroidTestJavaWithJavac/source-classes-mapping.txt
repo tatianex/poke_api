@@ -1,0 +1,2 @@
+com/proway/pokemonapp/test/BuildConfig.java
+ com.proway.pokemonapp.test.BuildConfig
