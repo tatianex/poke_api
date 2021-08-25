@@ -40,6 +40,14 @@ class MainViewModel : ViewModel() {
         }
     }
 
+    fun fetchFileredFromDatabase(context: Context, query: String) {
+        val repository = PokemonRepository(context)
+        val filteredList = repository.fetchAllFromDatabaseWithFilter(query)
+        filteredList?.let {
+            _pokemons.value = it
+        }
+    }
+
     private fun loadPokeDetails(pokemons: List<Pokemon>, repository: PokemonRepository) {
         pokemons.forEach { poke ->
             repository.fetchPokemonDetails(pokeId = poke.extractIdFromUrl()) { details, _ ->

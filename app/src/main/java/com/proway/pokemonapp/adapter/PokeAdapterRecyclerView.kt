@@ -52,11 +52,39 @@ class PokemonViewHolder(itemView : View) : RecyclerView.ViewHolder(itemView) {
             Glide.with(itemView.context)
                 .load(it.sprites.other.artwork?.image)
                 .into(binding.avatarImageView)
-        }
 
-        pokemon.details?.let {
-            val bgColor = it.type[0].type.extractBgColor()
-            binding.cardItem.setCardBackgroundColor(itemView.context.getColor(bgColor))
+            val pokeTypeSetup = it.type[0].type.extractPokeSetup()
+            binding.cardItem.setCardBackgroundColor(itemView.context.getColor(pokeTypeSetup.colorCard))
+            binding.typesContainer.typeCardView1.setCardBackgroundColor(
+                itemView.context.getColor(
+                    pokeTypeSetup.colorType
+                )
+            )
+            binding.typesContainer.typeImageView1.setImageDrawable(
+                itemView.context.getDrawable(
+                    pokeTypeSetup.icon
+                )
+            )
+            binding.typesContainer.typeTextView1.text = it.type[0].type.typeName
+
+            if (it.type.size > 1) {
+                val setupCard2 = it.type[1].type.extractPokeSetup()
+                binding.typesContainer.typeCardView2.setCardBackgroundColor(
+                    itemView.context.getColor(
+                        setupCard2.colorType
+                    )
+                )
+                binding.typesContainer.typeImageView2.setImageDrawable(
+                    itemView.context.getDrawable(
+                        setupCard2.icon
+                    )
+                )
+                binding.typesContainer.typeTextView2.text =
+                    it.type[1].type.typeName
+                binding.typesContainer.typeCardView2.visibility = View.VISIBLE
+            } else {
+                binding.typesContainer.typeCardView2.visibility = View.GONE
+            }
         }
     }
 }

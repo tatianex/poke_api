@@ -39,9 +39,13 @@ public final class OnePokemonBinding implements ViewBinding {
   @NonNull
   public final TextView nameTextView;
 
+  @NonNull
+  public final TypeButtonsLayoutBinding typesContainer;
+
   private OnePokemonBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView avatarImageView,
       @NonNull CardView cardItem, @NonNull TextView idTextView, @NonNull ImageView imgPattern,
-      @NonNull ImageView imgPokeBall, @NonNull TextView nameTextView) {
+      @NonNull ImageView imgPokeBall, @NonNull TextView nameTextView,
+      @NonNull TypeButtonsLayoutBinding typesContainer) {
     this.rootView = rootView;
     this.avatarImageView = avatarImageView;
     this.cardItem = cardItem;
@@ -49,6 +53,7 @@ public final class OnePokemonBinding implements ViewBinding {
     this.imgPattern = imgPattern;
     this.imgPokeBall = imgPokeBall;
     this.nameTextView = nameTextView;
+    this.typesContainer = typesContainer;
   }
 
   @Override
@@ -114,8 +119,15 @@ public final class OnePokemonBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.typesContainer;
+      View typesContainer = ViewBindings.findChildViewById(rootView, id);
+      if (typesContainer == null) {
+        break missingId;
+      }
+      TypeButtonsLayoutBinding binding_typesContainer = TypeButtonsLayoutBinding.bind(typesContainer);
+
       return new OnePokemonBinding((ConstraintLayout) rootView, avatarImageView, cardItem,
-          idTextView, imgPattern, imgPokeBall, nameTextView);
+          idTextView, imgPattern, imgPokeBall, nameTextView, binding_typesContainer);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

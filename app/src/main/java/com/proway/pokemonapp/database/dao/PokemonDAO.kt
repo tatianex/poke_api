@@ -16,6 +16,10 @@ interface PokemonDAO {
     @Query("SELECT * FROM table_pokemon WHERE poke_name = :pokeId")
     fun byId(pokeId: String): Pokemon
 
+    @Query("SELECT * FROM table_pokemon WHERE poke_name LIKE '%' || :query || '%'")
+    fun fetchFiltered(query: String) : List<Pokemon>
+
+
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     fun insert(pokemon: Pokemon)
 

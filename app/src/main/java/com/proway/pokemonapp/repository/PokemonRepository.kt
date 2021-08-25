@@ -17,7 +17,7 @@ class PokemonRepository(private val context: Context) {
 
     fun fetchAll(onComplete: (PokeResponse?, String?) -> Unit) {
 
-        val call = service.getAll(151)
+        val call = service.getAll(1118)
         call.enqueue(object : Callback<PokeResponse> {
 
             override fun onResponse(call: Call<PokeResponse>, response: Response<PokeResponse>) {
@@ -73,6 +73,11 @@ class PokemonRepository(private val context: Context) {
     fun fetchAllFromDatabase(): List<Pokemon>? {
         val dao = database.pokemonDAO()
         return dao.getAll()
+    }
+
+    fun fetchAllFromDatabaseWithFilter(query: String): List<Pokemon>? {
+        val dao = database.pokemonDAO()
+        return dao.fetchFiltered(query)
     }
 
 }

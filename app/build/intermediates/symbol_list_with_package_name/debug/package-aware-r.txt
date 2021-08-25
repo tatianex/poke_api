@@ -1103,6 +1103,7 @@ color bg_type_normal
 color bg_type_poison
 color bg_type_psychic
 color bg_type_rock
+color bg_type_steel
 color bg_type_water
 color black
 color bright_foreground_disabled_material_dark
@@ -2020,6 +2021,7 @@ id buttonPanel
 id cache_measures
 id cancel_button
 id cardItem
+id cardView
 id carryVelocity
 id center
 id center_horizontal
@@ -2269,6 +2271,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id searchEditText
 id search_badge
 id search_bar
 id search_button
@@ -2319,6 +2322,7 @@ id stop
 id stretch
 id submenuarrow
 id submit_area
+id subtitleTextView
 id supportScrollUp
 id tabMode
 id tag_accessibility_actions
@@ -2357,6 +2361,7 @@ id textinput_suffix_text
 id time
 id title
 id titleDividerNoCustom
+id titleTextView
 id title_template
 id toggle
 id top
@@ -2370,6 +2375,13 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id typeCardView1
+id typeCardView2
+id typeImageView1
+id typeImageView2
+id typeTextView1
+id typeTextView2
+id typesContainer
 id unchecked
 id uniform
 id unlabeled
@@ -2546,6 +2558,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+layout type_buttons_layout
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description

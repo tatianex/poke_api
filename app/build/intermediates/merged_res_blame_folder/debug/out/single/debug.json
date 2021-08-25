@@ -640,6 +640,10 @@
         "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_flying.png"
     },
     {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/layout_type_buttons_layout.xml.flat",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/type_buttons_layout.xml"
+    },
+    {
         "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_img_pattern.png.flat",
         "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/img_pattern.png"
     },

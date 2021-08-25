@@ -341,6 +341,98 @@ public final class PokemonDAO_Impl implements PokemonDAO {
     }
   }
 
+  @Override
+  public List<Pokemon> fetchFiltered(final String query) {
+    final String _sql = "SELECT * FROM table_pokemon WHERE poke_name LIKE '%' || ? || '%'";
+    final RoomSQLiteQuery _statement = RoomSQLiteQuery.acquire(_sql, 1);
+    int _argIndex = 1;
+    if (query == null) {
+      _statement.bindNull(_argIndex);
+    } else {
+      _statement.bindString(_argIndex, query);
+    }
+    __db.assertNotSuspendingTransaction();
+    final Cursor _cursor = DBUtil.query(__db, _statement, false, null);
+    try {
+      final int _cursorIndexOfName = CursorUtil.getColumnIndexOrThrow(_cursor, "poke_name");
+      final int _cursorIndexOfUrl = CursorUtil.getColumnIndexOrThrow(_cursor, "poke_url");
+      final int _cursorIndexOfId = CursorUtil.getColumnIndexOrThrow(_cursor, "details_id");
+      final int _cursorIndexOfType = CursorUtil.getColumnIndexOrThrow(_cursor, "type");
+      final int _cursorIndexOfId_1 = CursorUtil.getColumnIndexOrThrow(_cursor, "sprites_id");
+      final int _cursorIndexOfId_2 = CursorUtil.getColumnIndexOrThrow(_cursor, "other_id");
+      final int _cursorIndexOfId_3 = CursorUtil.getColumnIndexOrThrow(_cursor, "artwork_id");
+      final int _cursorIndexOfImage = CursorUtil.getColumnIndexOrThrow(_cursor, "image");
+      final List<Pokemon> _result = new ArrayList<Pokemon>(_cursor.getCount());
+      while(_cursor.moveToNext()) {
+        final Pokemon _item;
+        final String _tmpName;
+        if (_cursor.isNull(_cursorIndexOfName)) {
+          _tmpName = null;
+        } else {
+          _tmpName = _cursor.getString(_cursorIndexOfName);
+        }
+        final String _tmpUrl;
+        if (_cursor.isNull(_cursorIndexOfUrl)) {
+          _tmpUrl = null;
+        } else {
+          _tmpUrl = _cursor.getString(_cursorIndexOfUrl);
+        }
+        final PokemonDetails _tmpDetails;
+        if (! (_cursor.isNull(_cursorIndexOfId) && _cursor.isNull(_cursorIndexOfType) && _cursor.isNull(_cursorIndexOfId_1) && _cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+          final int _tmpId;
+          _tmpId = _cursor.getInt(_cursorIndexOfId);
+          final List<Types> _tmpType;
+          final String _tmp;
+          if (_cursor.isNull(_cursorIndexOfType)) {
+            _tmp = null;
+          } else {
+            _tmp = _cursor.getString(_cursorIndexOfType);
+          }
+          _tmpType = __converters.jsonToList(_tmp);
+          final Sprites _tmpSprites;
+          if (! (_cursor.isNull(_cursorIndexOfId_1) && _cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+            final int _tmpId_1;
+            _tmpId_1 = _cursor.getInt(_cursorIndexOfId_1);
+            final Other _tmpOther;
+            if (! (_cursor.isNull(_cursorIndexOfId_2) && _cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+              final int _tmpId_2;
+              _tmpId_2 = _cursor.getInt(_cursorIndexOfId_2);
+              final Artwork _tmpArtwork;
+              if (! (_cursor.isNull(_cursorIndexOfId_3) && _cursor.isNull(_cursorIndexOfImage))) {
+                final int _tmpId_3;
+                _tmpId_3 = _cursor.getInt(_cursorIndexOfId_3);
+                final String _tmpImage;
+                if (_cursor.isNull(_cursorIndexOfImage)) {
+                  _tmpImage = null;
+                } else {
+                  _tmpImage = _cursor.getString(_cursorIndexOfImage);
+                }
+                _tmpArtwork = new Artwork(_tmpId_3,_tmpImage);
+              }  else  {
+                _tmpArtwork = null;
+              }
+              _tmpOther = new Other(_tmpId_2,_tmpArtwork);
+            }  else  {
+              _tmpOther = null;
+            }
+            _tmpSprites = new Sprites(_tmpId_1,_tmpOther);
+          }  else  {
+            _tmpSprites = null;
+          }
+          _tmpDetails = new PokemonDetails(_tmpId,_tmpSprites,_tmpType);
+        }  else  {
+          _tmpDetails = null;
+        }
+        _item = new Pokemon(_tmpName,_tmpUrl,_tmpDetails);
+        _result.add(_item);
+      }
+      return _result;
+    } finally {
+      _cursor.close();
+      _statement.release();
+    }
+  }
+
   public static List<Class<?>> getRequiredConverters() {
     return Collections.emptyList();
   }

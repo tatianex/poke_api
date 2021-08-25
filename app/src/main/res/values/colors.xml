@@ -8,6 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="bug">#8CB230</color>
+    <color name="bg_type_steel">#4C91B2</color>
     <color name="bg_type_bug">#88d674</color>
     <color name="bg_type_fairy">#EBA8C3</color>
     <color name="bg_type_ghost">#8571BE</color>
