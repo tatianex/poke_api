@@ -55,9 +55,23 @@ class MainFragment : Fragment(R.layout.main_fragment) {
             }
 
             override fun afterTextChanged(p0: Editable?) {
-
+                p0.let {
+                    if (it != null) {
+                        if (it.isEmpty()) {
+                            viewModel.fetchAllFromDatabase(requireContext())
+                        }
+                    }
+                }
             }
         })
+
+        binding.buttonFilters.setOnClickListener { showBottomSheetDialog() }
+    }
+
+    fun showBottomSheetDialog() {
+        val bottomSheet = FiltersFragment.newInstance()
+        bottomSheet.show(parentFragmentManager, "dialog_filters")
+
     }
 
 }

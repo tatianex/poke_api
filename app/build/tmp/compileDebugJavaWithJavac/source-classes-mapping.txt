@@ -1,10 +1,10 @@
-com/proway/pokemonapp/BuildConfig.java
- com.proway.pokemonapp.BuildConfig
 com/proway/pokemonapp/databinding/TypeButtonsLayoutBinding.java
  com.proway.pokemonapp.databinding.TypeButtonsLayoutBinding
 com/proway/pokemonapp/database/AppDataBase_Impl.java
  com.proway.pokemonapp.database.AppDataBase_Impl
  com.proway.pokemonapp.database.AppDataBase_Impl$1
+com/proway/pokemonapp/databinding/FiltersFragmentBinding.java
+ com.proway.pokemonapp.databinding.FiltersFragmentBinding
 com/proway/pokemonapp/databinding/OnePokemonBinding.java
  com.proway.pokemonapp.databinding.OnePokemonBinding
 com/proway/pokemonapp/databinding/MainActivityBinding.java
@@ -15,3 +15,5 @@ com/proway/pokemonapp/database/dao/PokemonDAO_Impl.java
  com.proway.pokemonapp.database.dao.PokemonDAO_Impl
  com.proway.pokemonapp.database.dao.PokemonDAO_Impl$1
  com.proway.pokemonapp.database.dao.PokemonDAO_Impl$2
+com/proway/pokemonapp/BuildConfig.java
+ com.proway.pokemonapp.BuildConfig

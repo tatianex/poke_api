@@ -14,5 +14,9 @@
     {
         "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/one_pokemon.xml",
         "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/one_pokemon.xml"
+    },
+    {
+        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/filters_fragment.xml",
+        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/filters_fragment.xml"
     }
 ]

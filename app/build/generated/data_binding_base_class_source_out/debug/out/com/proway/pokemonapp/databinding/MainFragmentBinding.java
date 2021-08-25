@@ -5,10 +5,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
-import android.widget.TextView;
+import android.widget.ImageView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.cardview.widget.CardView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewbinding.ViewBinding;
@@ -23,10 +22,7 @@ public final class MainFragmentBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final CardView cardView;
-
-  @NonNull
-  public final ConstraintLayout main;
+  public final ImageView buttonFilters;
 
   @NonNull
   public final RecyclerView pokemonRecyclerView;
@@ -34,23 +30,12 @@ public final class MainFragmentBinding implements ViewBinding {
   @NonNull
   public final EditText searchEditText;
 
-  @NonNull
-  public final TextView subtitleTextView;
-
-  @NonNull
-  public final TextView titleTextView;
-
-  private MainFragmentBinding(@NonNull ConstraintLayout rootView, @NonNull CardView cardView,
-      @NonNull ConstraintLayout main, @NonNull RecyclerView pokemonRecyclerView,
-      @NonNull EditText searchEditText, @NonNull TextView subtitleTextView,
-      @NonNull TextView titleTextView) {
+  private MainFragmentBinding(@NonNull ConstraintLayout rootView, @NonNull ImageView buttonFilters,
+      @NonNull RecyclerView pokemonRecyclerView, @NonNull EditText searchEditText) {
     this.rootView = rootView;
-    this.cardView = cardView;
-    this.main = main;
+    this.buttonFilters = buttonFilters;
     this.pokemonRecyclerView = pokemonRecyclerView;
     this.searchEditText = searchEditText;
-    this.subtitleTextView = subtitleTextView;
-    this.titleTextView = titleTextView;
   }
 
   @Override
@@ -80,13 +65,11 @@ public final class MainFragmentBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.cardView;
-      CardView cardView = ViewBindings.findChildViewById(rootView, id);
-      if (cardView == null) {
+      id = R.id.buttonFilters;
+      ImageView buttonFilters = ViewBindings.findChildViewById(rootView, id);
+      if (buttonFilters == null) {
         break missingId;
       }
-
-      ConstraintLayout main = (ConstraintLayout) rootView;
 
       id = R.id.pokemonRecyclerView;
       RecyclerView pokemonRecyclerView = ViewBindings.findChildViewById(rootView, id);
@@ -100,20 +83,8 @@ public final class MainFragmentBinding implements ViewBinding {
         break missingId;
       }
 
-      id = R.id.subtitleTextView;
-      TextView subtitleTextView = ViewBindings.findChildViewById(rootView, id);
-      if (subtitleTextView == null) {
-        break missingId;
-      }
-
-      id = R.id.titleTextView;
-      TextView titleTextView = ViewBindings.findChildViewById(rootView, id);
-      if (titleTextView == null) {
-        break missingId;
-      }
-
-      return new MainFragmentBinding((ConstraintLayout) rootView, cardView, main,
-          pokemonRecyclerView, searchEditText, subtitleTextView, titleTextView);
+      return new MainFragmentBinding((ConstraintLayout) rootView, buttonFilters,
+          pokemonRecyclerView, searchEditText);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));
