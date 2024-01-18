@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-small-v4/values-small-v4.xml",
+            "outputFile": "com.proway.pokemonapp-mergeDebugResources-24:/values-small-v4/values-small-v4.xml",
             "map": [
                 {
-                    "source": "/Users/tatiane/.gradle/caches/transforms-3/8ca32a7293a1699f2cb56f351ef41d3d/transformed/material-1.4.0/res/values-small-v4/values-small-v4.xml",
+                    "source": "/Users/tatiane/.gradle/caches/transforms-3/56a55533a5f9a85cc0ab2c1a7275727b/transformed/material-1.4.0/res/values-small-v4/values-small-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

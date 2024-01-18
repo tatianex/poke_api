@@ -56,8 +56,7 @@ public final class PokemonDAO_Impl implements PokemonDAO {
         final PokemonDetails _tmpDetails = value.getDetails();
         if(_tmpDetails != null) {
           stmt.bindLong(3, _tmpDetails.getId());
-          final String _tmp;
-          _tmp = __converters.listToJson(_tmpDetails.getType());
+          final String _tmp = __converters.listToJson(_tmpDetails.getType());
           if (_tmp == null) {
             stmt.bindNull(4);
           } else {

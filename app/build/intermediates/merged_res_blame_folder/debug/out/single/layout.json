@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/type_buttons_layout.xml",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/type_buttons_layout.xml"
+        "merged": "com.proway.pokemonapp-mergeDebugResources-25:/layout/type_buttons_layout.xml",
+        "source": "com.proway.pokemonapp-main-28:/layout/type_buttons_layout.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_fragment.xml",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/main_fragment.xml"
+        "merged": "com.proway.pokemonapp-mergeDebugResources-25:/layout/main_activity.xml",
+        "source": "com.proway.pokemonapp-main-28:/layout/main_activity.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/main_activity.xml",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/main_activity.xml"
+        "merged": "com.proway.pokemonapp-mergeDebugResources-25:/layout/main_fragment.xml",
+        "source": "com.proway.pokemonapp-main-28:/layout/main_fragment.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/one_pokemon.xml",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/one_pokemon.xml"
+        "merged": "com.proway.pokemonapp-mergeDebugResources-25:/layout/one_pokemon.xml",
+        "source": "com.proway.pokemonapp-main-28:/layout/one_pokemon.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/filters_fragment.xml",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/filters_fragment.xml"
+        "merged": "com.proway.pokemonapp-mergeDebugResources-25:/layout/filters_fragment.xml",
+        "source": "com.proway.pokemonapp-main-28:/layout/filters_fragment.xml"
     }
 ]

@@ -1,10 +1,13 @@
 package com.proway.pokemonapp.database;
 
+import androidx.annotation.NonNull;
 import androidx.room.DatabaseConfiguration;
 import androidx.room.InvalidationTracker;
 import androidx.room.RoomOpenHelper;
 import androidx.room.RoomOpenHelper.Delegate;
 import androidx.room.RoomOpenHelper.ValidationResult;
+import androidx.room.migration.AutoMigrationSpec;
+import androidx.room.migration.Migration;
 import androidx.room.util.DBUtil;
 import androidx.room.util.TableInfo;
 import androidx.room.util.TableInfo.Column;
@@ -20,6 +23,7 @@ import java.lang.Class;
 import java.lang.Override;
 import java.lang.String;
 import java.lang.SuppressWarnings;
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
@@ -241,6 +245,18 @@ public final class AppDataBase_Impl extends AppDataBase {
     final HashMap<Class<?>, List<Class<?>>> _typeConvertersMap = new HashMap<Class<?>, List<Class<?>>>();
     _typeConvertersMap.put(PokemonDAO.class, PokemonDAO_Impl.getRequiredConverters());
     return _typeConvertersMap;
+  }
+
+  @Override
+  public Set<Class<? extends AutoMigrationSpec>> getRequiredAutoMigrationSpecs() {
+    final HashSet<Class<? extends AutoMigrationSpec>> _autoMigrationSpecsSet = new HashSet<Class<? extends AutoMigrationSpec>>();
+    return _autoMigrationSpecsSet;
+  }
+
+  @Override
+  public List<Migration> getAutoMigrations(
+      @NonNull Map<Class<? extends AutoMigrationSpec>, AutoMigrationSpec> autoMigrationSpecsMap) {
+    return Arrays.asList();
   }
 
   @Override

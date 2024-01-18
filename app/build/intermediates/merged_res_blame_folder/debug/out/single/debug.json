@@ -1,834 +1,834 @@
 [
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_heavy.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_heavy.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__0x5.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_0x5.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_circle.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_circle.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_fighting.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_fighting.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_ice.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_ice.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_poison.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_poison.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_psychic.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_psychic.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_electric.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_electric.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_steel.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_steel.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_ghost.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_ghost.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_ground.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_ground.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__01.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_01.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__98.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_98.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_ghost.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_ghost.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_steel.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_steel.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_filters.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_filters.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__53.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_53.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_generation.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_generation.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_dragon.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_dragon.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_fairy.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_fairy.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_img_pokeball.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/img_pokeball.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_fire.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_fire.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_psychic.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_psychic.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_psychic.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_psychic.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_img_pokeball.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/img_pokeball.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_water.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_water.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_circle.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_circle.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_flying.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_flying.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/layout_main_activity.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/layout/main_activity.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_steel.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_steel.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_water.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_water.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_bug.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_bug.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_img_pokeball.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/img_pokeball.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__55.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_55.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__52.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_52.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__10.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_10.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_poison.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_poison.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_electric.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_electric.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_rock.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_rock.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_grass.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_grass.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__01.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_01.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_circle.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_circle.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_water.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_water.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_filters.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_filters.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_grass.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_grass.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_back.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_back.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_psychic.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_psychic.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_filters.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_filters.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_bug.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_bug.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_circle.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_circle.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_electric.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_electric.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_circle.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_circle.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_bug.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_bug.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_bug.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_bug.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_flying.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_flying.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_flying.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_flying.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_grass.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_grass.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_img_pattern.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/img_pattern.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_normal.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_normal.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__28.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_28.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_grass.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_grass.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_ground.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_ground.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_psychic.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_psychic.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_img_pattern.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/img_pattern.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_fire.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_fire.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_filter.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_filter.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_ghost.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_ghost.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_search.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_search.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_rock.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_rock.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_bug.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_bug.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_rock.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_rock.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__50.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_50.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.proway.pokemonapp-main-28:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_poison.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_poison.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_electric.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_electric.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_fairy.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_fairy.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_poison.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_poison.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_bug.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_bug.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_pokeball.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_pokeball.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__56.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_56.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_dragon.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_dragon.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_water.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_water.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_fighting.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_fighting.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.proway.pokemonapp-main-28:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_dark.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_dark.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_dark.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_dark.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_filter.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_filter.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.proway.pokemonapp-main-28:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_fighting.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_fighting.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_fighting.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_fighting.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_filter.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_filter.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__53.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_53.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_bug.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_bug.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_fire.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_fire.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_filter.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_filter.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_ground.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_ground.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_fire.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_fire.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_flying.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_flying.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_dragon.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_dragon.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_rock.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_rock.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_sort.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_sort.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_img_pattern.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/img_pattern.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__28.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_28.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_electric.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_electric.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_pokeball.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_pokeball.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_fairy.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_fairy.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_filter.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_filter.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_filters.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_filters.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_filter.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_filter.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__55.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_55.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_dark.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_dark.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__87.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_87.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_rock.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_rock.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_rock.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_rock.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_water.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_water.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_ghost.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_ghost.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_filter.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_filter.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_flying.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_flying.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_img_pokeball.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/img_pokeball.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_poison.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_poison.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_fire.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_fire.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_fighting.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_fighting.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_ghost.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_ghost.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_dragon.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_dragon.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_circle.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_circle.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_electric.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_electric.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_steel.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_steel.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_flying.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_flying.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__58.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_58.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_back.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_back.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_psychic.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_psychic.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_img_pokeball.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/img_pokeball.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_filter.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_filter.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_light.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_light.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_img_pokeball.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/img_pokeball.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_ground.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_ground.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_search.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_search.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_flying.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_flying.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_tall.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_tall.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_search.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_search.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_circle.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_circle.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_poison.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_poison.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_search.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_search.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_bottom_dialog_bg.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/bottom_dialog_bg.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_search.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_search.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__13.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_13.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_steel.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_steel.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_dark.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_dark.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_ghost.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_ghost.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_normal.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_normal.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_search.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_search.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_fire.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_fire.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__52.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_52.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_img_pokeball.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/img_pokeball.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_psychic.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_psychic.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_steel.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_steel.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_ghost.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_ghost.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_bug.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_bug.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_img_pokeball.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/img_pokeball.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__04.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_04.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__95.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_95.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_fairy.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_fairy.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_rock.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_rock.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_dark.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_dark.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_steel.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_steel.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_bug.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_bug.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_sort.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_sort.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_img_pokeball.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/img_pokeball.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_circle.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_circle.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_ground.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_ground.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_fighting.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_fighting.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_poison.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_poison.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_psychic.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_psychic.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_img_pattern.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/img_pattern.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_bug.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_bug.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.proway.pokemonapp-main-28:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_fighting.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_fighting.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_grass.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_grass.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__98.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_98.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_poison.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_poison.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_water.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_water.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_img_pattern.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/img_pattern.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_filters.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_filters.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_dark.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_dark.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.proway.pokemonapp-main-28:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__07.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_07.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_dragon.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_dragon.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_fighting.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_fighting.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_img_pattern.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/img_pattern.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/layout_main_fragment.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/main_fragment.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.proway.pokemonapp-main-28:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__22.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_22.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_poison.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_poison.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__x3.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_x3.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_poison.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_poison.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_grass.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_grass.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_fighting.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_fighting.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_electric.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_electric.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_flying.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_flying.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_search.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_search.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_bug.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_bug.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_filters.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_filters.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_electric.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_electric.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_filters.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_filters.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_img_pokeball.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/img_pokeball.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_dark.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_dark.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_electric.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_electric.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_poison.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_poison.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_grass.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_grass.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_circle.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_circle.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_fighting.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_fighting.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_ground.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_ground.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__16.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_16.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_ground.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_ground.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_dark.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_dark.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_dragon.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_dragon.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_circle.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_circle.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_grass.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_grass.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_bottom_dialog_bg.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/bottom_dialog_bg.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_water.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_water.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_fairy.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_fairy.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_steel.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_steel.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_ice.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_ice.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__90.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_90.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_fighting.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_fighting.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_filter.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_filter.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_filters.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_filters.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_filters.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_filters.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_circle.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_circle.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_ground.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_ground.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__93.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_93.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_filter.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_filter.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/layout_one_pokemon.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/layout/one_pokemon.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_tall.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_tall.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.proway.pokemonapp-main-28:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_ghost.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_ghost.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_img_pattern.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/img_pattern.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_dark.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_dark.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_search.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_search.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_water.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_water.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_dark.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_dark.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_water.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_water.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_fairy.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_fairy.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_grass.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_grass.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_grass.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_grass.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_filters.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_filters.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_front.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_front.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_fire.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_fire.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_ghost.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_ghost.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_electric.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_electric.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_circle.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_circle.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_flying.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_flying.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_flying.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_flying.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__22.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_22.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_search.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_search.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_rock.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_rock.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_medium.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_medium.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_poison.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_poison.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_dark.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_dark.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_water.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_water.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__0x5.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_0x5.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_flying.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_flying.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__58.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_58.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_steel.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_steel.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/layout_filters_fragment.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/filters_fragment.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__07.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_07.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_img_pokeball.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/img_pokeball.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_psychic.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_psychic.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_img_pattern.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/img_pattern.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_flying.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_flying.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_img_pokeball.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/img_pokeball.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_steel.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_steel.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_front.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_front.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_ghost.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_ghost.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_bug.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_bug.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_img_pattern.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/img_pattern.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_rock.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_rock.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_rock.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_rock.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_ghost.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_ghost.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_psychic.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_psychic.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_steel.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_steel.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_dragon.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_dragon.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_steel.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_steel.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_search.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_search.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_fairy.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_fairy.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_psychic.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_psychic.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_search.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_search.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_water.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_water.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/layout_one_pokemon.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/one_pokemon.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_water.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_water.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_img_pokeball.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/img_pokeball.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__50.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_50.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__25.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_25.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_light.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_light.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_psychic.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_psychic.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__25.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_25.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_resource_short.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_resource_short.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_img_pattern.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/img_pattern.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_fire.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_fire.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__56.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_56.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_grass.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_grass.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_fire.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_fire.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_bug.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_bug.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "com.proway.pokemonapp-merged_res-26:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.proway.pokemonapp-main-28:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_rock.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_rock.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_ground.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_ground.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_poison.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_poison.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_grass.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_grass.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_flying.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_flying.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__13.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_13.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_electric.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_electric.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_dark.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_dark.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_fire.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_fire.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.proway.pokemonapp-main-28:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_filter.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_filter.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_flying.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_flying.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/layout_filters_fragment.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/layout/filters_fragment.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/layout_type_buttons_layout.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/type_buttons_layout.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_rock.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_rock.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_img_pattern.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/img_pattern.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__87.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_87.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__10.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_10.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_fire.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_fire.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_ghost.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_ghost.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_img_pattern.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/img_pattern.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_filters.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_filters.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_search.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_search.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_fairy.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_fairy.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_fighting.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_fighting.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__04.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_04.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_heavy.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_heavy.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__93.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_93.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_ground.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_ground.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_dragon.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_dragon.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_fairy.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_fairy.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_fairy.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_fairy.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__90.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_90.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable_ic_generation.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/ic_generation.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_fire.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_fire.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_psychic.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_psychic.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_psychic.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_psychic.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_ghost.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_ghost.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_ground.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_ground.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_grass.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_grass.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_img_pokeball.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/img_pokeball.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_water.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_water.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_filter.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_filter.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_ground.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_ground.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_steel.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_steel.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_fighting.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_fighting.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_dark.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_dark.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/layout_main_activity.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/layout/main_activity.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_img_pattern.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/img_pattern.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_electric.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_electric.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_filters.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_filters.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_fire.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_fire.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/layout_type_buttons_layout.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/layout/type_buttons_layout.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_search.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_search.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_filters.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_filters.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_filter.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_filter.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_fairy.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_fairy.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable__16.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/res/drawable/_16.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_resource_short.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_resource_short.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_circle.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_circle.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_dragon.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_dragon.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_dark.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_dark.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_ground.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_ground.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_fire.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_fire.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/layout_main_fragment.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/layout/main_fragment.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_filters.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_filters.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_filter.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_filter.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_fairy.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_fairy.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_medium.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_medium.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_fighting.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_fighting.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_electric.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-mdpi/ic_electric.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_dragon.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_dragon.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_dragon.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_dragon.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xhdpi_ic_electric.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xhdpi/ic_electric.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_steel.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_steel.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxxhdpi_ic_dragon.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxxhdpi/ic_dragon.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_grass.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_grass.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-ldpi_ic_ground.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-ldpi/ic_ground.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_fairy.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_fairy.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_img_pattern.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/img_pattern.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_dragon.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_dragon.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-xxhdpi_ic_rock.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-xxhdpi/ic_rock.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_rock.xml.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_rock.xml"
+        "merged": "com.proway.pokemonapp-merged_res-26:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.proway.pokemonapp-main-28:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_search.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_search.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-mdpi_ic_poison.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-mdpi/ic_poison.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_water.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-ldpi/ic_water.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__x3.xml.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_x3.xml"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_bug.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_bug.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable__95.png.flat",
+        "source": "com.proway.pokemonapp-main-28:/drawable/_95.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_circle.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_circle.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-hdpi_ic_fairy.png.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-hdpi/ic_fairy.png"
     },
     {
-        "merged": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_ghost.png.flat",
-        "source": "/Users/tatiane/AndroidStudioProjects/pokemonApp/app/build/generated/res/pngs/debug/drawable-hdpi/ic_ghost.png"
+        "merged": "com.proway.pokemonapp-merged_res-26:/drawable-anydpi-v24_ic_dragon.xml.flat",
+        "source": "com.proway.pokemonapp-pngs-21:/drawable-anydpi-v24/ic_dragon.xml"
     }
 ]

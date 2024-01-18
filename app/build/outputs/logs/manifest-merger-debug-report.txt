@@ -1,251 +1,251 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:2:1-25:12
-MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/tatiane/.gradle/caches/transforms-3/9b0f6e46c105f65a682689b133371279/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/1138718769fe7d817db1caa7174e0b13/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.material:material:1.4.0] /Users/tatiane/.gradle/caches/transforms-3/8ca32a7293a1699f2cb56f351ef41d3d/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/f07c9a0f27d11d4303522ceb8574fa7d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/d67e58f203bf296574fae2e7015cba6a/transformed/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.room:room-runtime:2.3.0] /Users/tatiane/.gradle/caches/transforms-3/2ee1eb2a1959068210a1b14fa62a341e/transformed/room-runtime-2.3.0/AndroidManifest.xml:17:1-31:12
-MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/34ccb2b4665275e14f0b0a3f0e6ddf89/transformed/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
-MERGED from [androidx.core:core-ktx:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/0b3c001a400bae76b09c709b3df69dc8/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/cb4166ba56b25fa7a08a081f8c4ab80e/transformed/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/tatiane/.gradle/caches/transforms-3/c190ec81ec2e22fe5ff35c900884a648/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/5cbda79773f0351833f25535e0359184/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/9adda0915562326a032fba575e026681/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.media:media:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/725d8f04448aa47dc480f0e6f0912e66/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d0047fdf324cf44dbbc6e5fd50f96fd7/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/b10831a6319afdf386149a7871322a21/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/ca40b9f1f09668a7ed3be6a59643d4ab/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/a588f510af8df2c6ca612c8b81f63a9e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/bf4d1a88d34409db78785f6e325113e4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.3.6] /Users/tatiane/.gradle/caches/transforms-3/0effe4c0d7743dc1615d1e03f4681fda/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/1999ec5cfbcd670e45a7329bbd3010cc/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/a999ef8f33cf159e8a4c5097c2e6dde4/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d352a740c4a7999e0211689b3cd53bac/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/3e8ba612d6a0c91492220efbbff64617/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/19d3192d8f5c33806be0326c57218c28/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/e2ca2cadd0e842856f0a38beecca3194/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/ea8c763e975e0c5ea79bb7a0060091cb/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.2.4] /Users/tatiane/.gradle/caches/transforms-3/1efee826a8353cca4a72fac115c1a9b4/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/tatiane/.gradle/caches/transforms-3/119c9fea046ec6cc8dd862401e8feea5/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/92eef1c6180faadd82adb546b1773c47/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/65fa6f41e2d2a7b48e99a9dedf83ba7a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/183cbc8cd500bca3519641c63268fef4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/9c9788ef6fea5c5367311b2534879376/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/95f8224dd8e76e0ab988c52e59646e3d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/f3d655ef6916db371ae73f91217eb81e/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/032c58922bb38a99adf98a8b0941b4fc/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/5f7ee1baf9c3b357f810c26874b734e9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/5077781b0dacb4678554c70b75973e62/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/a3701a21fc0415a89a37aa2de431136a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/df0b12649bca8a3bae5d385222bd25ea/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/9b2cd0decc2be493452db6df5fcf85b3/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/04665f54ebc07f5a011891b16d1bd4c1/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/83e8a77a2bf9d724e431479c50611bb1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/31bd29dfbbdd7059f3c3d2669fc3de1e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d571764d640b73df2d5525d591d7a8b2/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/10daabcf7905053892bd7b5d57d87332/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tatiane/.gradle/caches/transforms-3/d42b63d3eef01f517eb8b7f82920b9fc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/20f2d14197f7a691aec909ff540e3bb1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/b49b8e19b3f406958aa9d191c16c2abf/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/6c0d2bbce340fd912436306a21a4380e/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/93cdb6347a6ee82a29d24019fddd33db/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/c5e8d753cf02532ab4d5f5efed8d1f78/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/a26a12671743ae6db2f842920492f3e5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:2:1-25:12
+ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/tatiane/.gradle/caches/transforms-3/f02db6e707e638f3a0ccc489e7cd6af1/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/a1d0cf896f36dcf4ad5090027eaddc02/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/tatiane/.gradle/caches/transforms-3/56a55533a5f9a85cc0ab2c1a7275727b/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/edd001069f23475924a5afa5df4b4439/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/64855522309067727d69f5171fa15d87/transformed/recyclerview-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.4.0] /Users/tatiane/.gradle/caches/transforms-3/6237d430ccd8f6053e45f5b9ae7db21b/transformed/room-runtime-2.4.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/851698f46fc7c8d9aebf6b8bc0673b61/transformed/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/f53a00580f4dee64f9e796f2e904cd39/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/204eda184c17428a20aee97aec881102/transformed/constraintlayout-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/tatiane/.gradle/caches/transforms-3/6ef6466f095163f6359393ed3b567268/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/4490c38b86538d979841353a1baed71d/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/a6d201e5a4d6f879ad6b24be5e9fc632/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/66a901bf12a9dfbe4dc42f99ab94b7d3/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d67e7763c7c9f7996cded62dc975e075/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/c54ca0044accb60a1d4f1e42bfc4359b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/86dc1899beea0752b5cfcfd5ca61c8a1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/8689d0db589a4ab4fc77bcdc889f88f2/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/87745dd2c48bd88ad56c1e7094da287b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/tatiane/.gradle/caches/transforms-3/67e8a0adc538e6bb30a3253547e29193/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/f601e55f08d9a8c45f1463dc925bb5dd/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d22bed9e99edf0ed384ddbdfe3a9c1a1/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/9891697fb8e0d8fc6d55dfe2c550e390/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/tatiane/.gradle/caches/transforms-3/3e48736af7b3b8261aaededda6c70a3d/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/tatiane/.gradle/caches/transforms-3/832408181eab9b197cac7214787b6b9b/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/d96ca368ae44fcd00c754539a5e1116e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/6ec2251de333dd59410b4408df5ca3b0/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/tatiane/.gradle/caches/transforms-3/743f189f928a361ad33a23040337d686/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/tatiane/.gradle/caches/transforms-3/3e7f2176d07c193ef8684f2c92ef9558/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/094b40a2a7eed897762127270be9afac/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/fd38e84b510412808585f72d1b653217/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/092eda76bbf7f1fbd1be0a14373b93fa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/b052207bf9312c63521154faaa1f2602/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/bc8b05aadeacdb3bc14004a92df0f8d7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/effb86755cb35b85db43a1b29fad8984/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/bd642b8b656b37eb31a733cc093832a8/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/649352a269038789cef58bd8ce890521/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/9d4cf25347f6a53d0d3cd9a3f9d19b60/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/d70479a204ebc4d968585f1342e57598/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/69e5240ca6bc8233b4037a217cd1599b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/5fd7089bad3adf093b8844fabefca69f/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/b75d02c325c9512ef0d9162b36f973dd/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/f9e1569d9db427d6481fff2e6efb5ca9/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/691c126b165e49475025ccae46194395/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/cf799ce90b73e48775bcfa2d557dcac1/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/6bcbd6e8ae404a67131fcf07809c8106/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tatiane/.gradle/caches/transforms-3/8a4357f96530bc320c03d9f0dc2daab2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/72e6b0ec47b03602f4eb5550ebcc17ef/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/80b6fe5eb75872bc04df20f576b04f2c/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/5e61130fae81b8051d372d756f58bd02/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/e4d3866fb4e24293263abe03a56eeaee/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/4650babcc572a4f48194ac31d4b3dd5d/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/8286a8c73e719543075a2a8314045dc2/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:2:1-25:12
 	package
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:3:5-36
-		INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:2:1-25:12
-		INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:2:1-25:12
-		INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:5:5-83
+ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:5:5-83
 	android:name
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:5:22-64
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:7:5-23:19
-MERGED from [com.google.android.material:material:1.4.0] /Users/tatiane/.gradle/caches/transforms-3/8ca32a7293a1699f2cb56f351ef41d3d/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.4.0] /Users/tatiane/.gradle/caches/transforms-3/8ca32a7293a1699f2cb56f351ef41d3d/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.room:room-runtime:2.3.0] /Users/tatiane/.gradle/caches/transforms-3/2ee1eb2a1959068210a1b14fa62a341e/transformed/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
-MERGED from [androidx.room:room-runtime:2.3.0] /Users/tatiane/.gradle/caches/transforms-3/2ee1eb2a1959068210a1b14fa62a341e/transformed/room-runtime-2.3.0/AndroidManifest.xml:24:5-29:19
-MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/34ccb2b4665275e14f0b0a3f0e6ddf89/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/34ccb2b4665275e14f0b0a3f0e6ddf89/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/cb4166ba56b25fa7a08a081f8c4ab80e/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/cb4166ba56b25fa7a08a081f8c4ab80e/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/e2ca2cadd0e842856f0a38beecca3194/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/e2ca2cadd0e842856f0a38beecca3194/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
-MERGED from [androidx.core:core:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/032c58922bb38a99adf98a8b0941b4fc/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/032c58922bb38a99adf98a8b0941b4fc/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tatiane/.gradle/caches/transforms-3/d42b63d3eef01f517eb8b7f82920b9fc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tatiane/.gradle/caches/transforms-3/d42b63d3eef01f517eb8b7f82920b9fc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/tatiane/.gradle/caches/transforms-3/56a55533a5f9a85cc0ab2c1a7275727b/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/tatiane/.gradle/caches/transforms-3/56a55533a5f9a85cc0ab2c1a7275727b/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.4.0] /Users/tatiane/.gradle/caches/transforms-3/6237d430ccd8f6053e45f5b9ae7db21b/transformed/room-runtime-2.4.0/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.0] /Users/tatiane/.gradle/caches/transforms-3/6237d430ccd8f6053e45f5b9ae7db21b/transformed/room-runtime-2.4.0/AndroidManifest.xml:24:5-29:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/851698f46fc7c8d9aebf6b8bc0673b61/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/851698f46fc7c8d9aebf6b8bc0673b61/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/204eda184c17428a20aee97aec881102/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/204eda184c17428a20aee97aec881102/transformed/constraintlayout-2.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/d96ca368ae44fcd00c754539a5e1116e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/d96ca368ae44fcd00c754539a5e1116e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/bd642b8b656b37eb31a733cc093832a8/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/bd642b8b656b37eb31a733cc093832a8/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tatiane/.gradle/caches/transforms-3/8a4357f96530bc320c03d9f0dc2daab2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tatiane/.gradle/caches/transforms-3/8a4357f96530bc320c03d9f0dc2daab2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/032c58922bb38a99adf98a8b0941b4fc/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/bd642b8b656b37eb31a733cc093832a8/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:10:9-41
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:10:9-41
 	android:roundIcon
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:11:9-54
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:11:9-54
 	android:icon
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:9:9-43
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:9:9-43
 	android:allowBackup
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:8:9-35
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:13:9-48
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:13:9-48
 activity#com.proway.pokemonapp.MainActivity
-ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:14:9-22:20
+ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:14:9-22:20
 	android:exported
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:16:13-36
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:16:13-36
 	android:name
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:15:13-41
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:15:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:17:13-21:29
+ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:17:13-21:29
 action#android.intent.action.MAIN
-ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:18:17-69
+ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:18:17-69
 	android:name
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:18:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:20:17-77
+ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:20:17-77
 	android:name
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml:20:27-74
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml:20:27-74
 uses-sdk
-INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
-INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
-MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/tatiane/.gradle/caches/transforms-3/9b0f6e46c105f65a682689b133371279/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.databinding:viewbinding:7.0.0] /Users/tatiane/.gradle/caches/transforms-3/9b0f6e46c105f65a682689b133371279/transformed/jetified-viewbinding-7.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/1138718769fe7d817db1caa7174e0b13/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/1138718769fe7d817db1caa7174e0b13/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.4.0] /Users/tatiane/.gradle/caches/transforms-3/8ca32a7293a1699f2cb56f351ef41d3d/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.4.0] /Users/tatiane/.gradle/caches/transforms-3/8ca32a7293a1699f2cb56f351ef41d3d/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/f07c9a0f27d11d4303522ceb8574fa7d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/f07c9a0f27d11d4303522ceb8574fa7d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/d67e58f203bf296574fae2e7015cba6a/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/d67e58f203bf296574fae2e7015cba6a/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-runtime:2.3.0] /Users/tatiane/.gradle/caches/transforms-3/2ee1eb2a1959068210a1b14fa62a341e/transformed/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-runtime:2.3.0] /Users/tatiane/.gradle/caches/transforms-3/2ee1eb2a1959068210a1b14fa62a341e/transformed/room-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/34ccb2b4665275e14f0b0a3f0e6ddf89/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/34ccb2b4665275e14f0b0a3f0e6ddf89/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
-MERGED from [androidx.core:core-ktx:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/0b3c001a400bae76b09c709b3df69dc8/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.core:core-ktx:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/0b3c001a400bae76b09c709b3df69dc8/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/cb4166ba56b25fa7a08a081f8c4ab80e/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/cb4166ba56b25fa7a08a081f8c4ab80e/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/tatiane/.gradle/caches/transforms-3/c190ec81ec2e22fe5ff35c900884a648/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/tatiane/.gradle/caches/transforms-3/c190ec81ec2e22fe5ff35c900884a648/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/5cbda79773f0351833f25535e0359184/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/5cbda79773f0351833f25535e0359184/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/9adda0915562326a032fba575e026681/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/9adda0915562326a032fba575e026681/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.media:media:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/725d8f04448aa47dc480f0e6f0912e66/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/725d8f04448aa47dc480f0e6f0912e66/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d0047fdf324cf44dbbc6e5fd50f96fd7/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d0047fdf324cf44dbbc6e5fd50f96fd7/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/b10831a6319afdf386149a7871322a21/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/b10831a6319afdf386149a7871322a21/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/ca40b9f1f09668a7ed3be6a59643d4ab/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/ca40b9f1f09668a7ed3be6a59643d4ab/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/a588f510af8df2c6ca612c8b81f63a9e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/a588f510af8df2c6ca612c8b81f63a9e/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/bf4d1a88d34409db78785f6e325113e4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/bf4d1a88d34409db78785f6e325113e4/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] /Users/tatiane/.gradle/caches/transforms-3/0effe4c0d7743dc1615d1e03f4681fda/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.3.6] /Users/tatiane/.gradle/caches/transforms-3/0effe4c0d7743dc1615d1e03f4681fda/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/1999ec5cfbcd670e45a7329bbd3010cc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/1999ec5cfbcd670e45a7329bbd3010cc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/a999ef8f33cf159e8a4c5097c2e6dde4/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/a999ef8f33cf159e8a4c5097c2e6dde4/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d352a740c4a7999e0211689b3cd53bac/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d352a740c4a7999e0211689b3cd53bac/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/3e8ba612d6a0c91492220efbbff64617/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/3e8ba612d6a0c91492220efbbff64617/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/19d3192d8f5c33806be0326c57218c28/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/19d3192d8f5c33806be0326c57218c28/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/e2ca2cadd0e842856f0a38beecca3194/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/e2ca2cadd0e842856f0a38beecca3194/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/ea8c763e975e0c5ea79bb7a0060091cb/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/ea8c763e975e0c5ea79bb7a0060091cb/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.2.4] /Users/tatiane/.gradle/caches/transforms-3/1efee826a8353cca4a72fac115c1a9b4/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.2.4] /Users/tatiane/.gradle/caches/transforms-3/1efee826a8353cca4a72fac115c1a9b4/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/tatiane/.gradle/caches/transforms-3/119c9fea046ec6cc8dd862401e8feea5/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/tatiane/.gradle/caches/transforms-3/119c9fea046ec6cc8dd862401e8feea5/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/92eef1c6180faadd82adb546b1773c47/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/92eef1c6180faadd82adb546b1773c47/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/65fa6f41e2d2a7b48e99a9dedf83ba7a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/65fa6f41e2d2a7b48e99a9dedf83ba7a/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/183cbc8cd500bca3519641c63268fef4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/183cbc8cd500bca3519641c63268fef4/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.loader:loader:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/9c9788ef6fea5c5367311b2534879376/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/9c9788ef6fea5c5367311b2534879376/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/95f8224dd8e76e0ab988c52e59646e3d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/95f8224dd8e76e0ab988c52e59646e3d/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/f3d655ef6916db371ae73f91217eb81e/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/f3d655ef6916db371ae73f91217eb81e/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/032c58922bb38a99adf98a8b0941b4fc/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/032c58922bb38a99adf98a8b0941b4fc/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/5f7ee1baf9c3b357f810c26874b734e9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/5f7ee1baf9c3b357f810c26874b734e9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/5077781b0dacb4678554c70b75973e62/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/5077781b0dacb4678554c70b75973e62/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/a3701a21fc0415a89a37aa2de431136a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/a3701a21fc0415a89a37aa2de431136a/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/df0b12649bca8a3bae5d385222bd25ea/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/df0b12649bca8a3bae5d385222bd25ea/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/9b2cd0decc2be493452db6df5fcf85b3/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/9b2cd0decc2be493452db6df5fcf85b3/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/04665f54ebc07f5a011891b16d1bd4c1/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/04665f54ebc07f5a011891b16d1bd4c1/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/83e8a77a2bf9d724e431479c50611bb1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/83e8a77a2bf9d724e431479c50611bb1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/31bd29dfbbdd7059f3c3d2669fc3de1e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/31bd29dfbbdd7059f3c3d2669fc3de1e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d571764d640b73df2d5525d591d7a8b2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d571764d640b73df2d5525d591d7a8b2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/10daabcf7905053892bd7b5d57d87332/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/10daabcf7905053892bd7b5d57d87332/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tatiane/.gradle/caches/transforms-3/d42b63d3eef01f517eb8b7f82920b9fc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tatiane/.gradle/caches/transforms-3/d42b63d3eef01f517eb8b7f82920b9fc/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/20f2d14197f7a691aec909ff540e3bb1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/20f2d14197f7a691aec909ff540e3bb1/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/b49b8e19b3f406958aa9d191c16c2abf/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/b49b8e19b3f406958aa9d191c16c2abf/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/6c0d2bbce340fd912436306a21a4380e/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/6c0d2bbce340fd912436306a21a4380e/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/93cdb6347a6ee82a29d24019fddd33db/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/93cdb6347a6ee82a29d24019fddd33db/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/c5e8d753cf02532ab4d5f5efed8d1f78/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/c5e8d753cf02532ab4d5f5efed8d1f78/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/a26a12671743ae6db2f842920492f3e5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/a26a12671743ae6db2f842920492f3e5/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
-INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/tatiane/.gradle/caches/transforms-3/f02db6e707e638f3a0ccc489e7cd6af1/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.2] /Users/tatiane/.gradle/caches/transforms-3/f02db6e707e638f3a0ccc489e7cd6af1/transformed/jetified-viewbinding-7.4.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/a1d0cf896f36dcf4ad5090027eaddc02/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/a1d0cf896f36dcf4ad5090027eaddc02/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/tatiane/.gradle/caches/transforms-3/56a55533a5f9a85cc0ab2c1a7275727b/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/tatiane/.gradle/caches/transforms-3/56a55533a5f9a85cc0ab2c1a7275727b/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/edd001069f23475924a5afa5df4b4439/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/edd001069f23475924a5afa5df4b4439/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/64855522309067727d69f5171fa15d87/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/64855522309067727d69f5171fa15d87/transformed/recyclerview-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0] /Users/tatiane/.gradle/caches/transforms-3/6237d430ccd8f6053e45f5b9ae7db21b/transformed/room-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.0] /Users/tatiane/.gradle/caches/transforms-3/6237d430ccd8f6053e45f5b9ae7db21b/transformed/room-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/851698f46fc7c8d9aebf6b8bc0673b61/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/851698f46fc7c8d9aebf6b8bc0673b61/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/f53a00580f4dee64f9e796f2e904cd39/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/f53a00580f4dee64f9e796f2e904cd39/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/204eda184c17428a20aee97aec881102/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/204eda184c17428a20aee97aec881102/transformed/constraintlayout-2.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/tatiane/.gradle/caches/transforms-3/6ef6466f095163f6359393ed3b567268/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/tatiane/.gradle/caches/transforms-3/6ef6466f095163f6359393ed3b567268/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/4490c38b86538d979841353a1baed71d/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/4490c38b86538d979841353a1baed71d/transformed/jetified-lifecycle-livedata-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/a6d201e5a4d6f879ad6b24be5e9fc632/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/a6d201e5a4d6f879ad6b24be5e9fc632/transformed/jetified-lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/66a901bf12a9dfbe4dc42f99ab94b7d3/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/66a901bf12a9dfbe4dc42f99ab94b7d3/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d67e7763c7c9f7996cded62dc975e075/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d67e7763c7c9f7996cded62dc975e075/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/c54ca0044accb60a1d4f1e42bfc4359b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/c54ca0044accb60a1d4f1e42bfc4359b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/86dc1899beea0752b5cfcfd5ca61c8a1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/86dc1899beea0752b5cfcfd5ca61c8a1/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/8689d0db589a4ab4fc77bcdc889f88f2/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/8689d0db589a4ab4fc77bcdc889f88f2/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/87745dd2c48bd88ad56c1e7094da287b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/87745dd2c48bd88ad56c1e7094da287b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/tatiane/.gradle/caches/transforms-3/67e8a0adc538e6bb30a3253547e29193/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/tatiane/.gradle/caches/transforms-3/67e8a0adc538e6bb30a3253547e29193/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/f601e55f08d9a8c45f1463dc925bb5dd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/f601e55f08d9a8c45f1463dc925bb5dd/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d22bed9e99edf0ed384ddbdfe3a9c1a1/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/d22bed9e99edf0ed384ddbdfe3a9c1a1/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/9891697fb8e0d8fc6d55dfe2c550e390/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/9891697fb8e0d8fc6d55dfe2c550e390/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/tatiane/.gradle/caches/transforms-3/3e48736af7b3b8261aaededda6c70a3d/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/tatiane/.gradle/caches/transforms-3/3e48736af7b3b8261aaededda6c70a3d/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/tatiane/.gradle/caches/transforms-3/832408181eab9b197cac7214787b6b9b/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/tatiane/.gradle/caches/transforms-3/832408181eab9b197cac7214787b6b9b/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/d96ca368ae44fcd00c754539a5e1116e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/tatiane/.gradle/caches/transforms-3/d96ca368ae44fcd00c754539a5e1116e/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/6ec2251de333dd59410b4408df5ca3b0/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/6ec2251de333dd59410b4408df5ca3b0/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/tatiane/.gradle/caches/transforms-3/743f189f928a361ad33a23040337d686/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/tatiane/.gradle/caches/transforms-3/743f189f928a361ad33a23040337d686/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/tatiane/.gradle/caches/transforms-3/3e7f2176d07c193ef8684f2c92ef9558/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/tatiane/.gradle/caches/transforms-3/3e7f2176d07c193ef8684f2c92ef9558/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/094b40a2a7eed897762127270be9afac/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/tatiane/.gradle/caches/transforms-3/094b40a2a7eed897762127270be9afac/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/fd38e84b510412808585f72d1b653217/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/fd38e84b510412808585f72d1b653217/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/092eda76bbf7f1fbd1be0a14373b93fa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/092eda76bbf7f1fbd1be0a14373b93fa/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/b052207bf9312c63521154faaa1f2602/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/b052207bf9312c63521154faaa1f2602/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/bc8b05aadeacdb3bc14004a92df0f8d7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/bc8b05aadeacdb3bc14004a92df0f8d7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/effb86755cb35b85db43a1b29fad8984/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/effb86755cb35b85db43a1b29fad8984/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/bd642b8b656b37eb31a733cc093832a8/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/tatiane/.gradle/caches/transforms-3/bd642b8b656b37eb31a733cc093832a8/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/649352a269038789cef58bd8ce890521/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/649352a269038789cef58bd8ce890521/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/9d4cf25347f6a53d0d3cd9a3f9d19b60/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/9d4cf25347f6a53d0d3cd9a3f9d19b60/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/d70479a204ebc4d968585f1342e57598/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/d70479a204ebc4d968585f1342e57598/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/69e5240ca6bc8233b4037a217cd1599b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/69e5240ca6bc8233b4037a217cd1599b/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/5fd7089bad3adf093b8844fabefca69f/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/5fd7089bad3adf093b8844fabefca69f/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/b75d02c325c9512ef0d9162b36f973dd/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/b75d02c325c9512ef0d9162b36f973dd/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/f9e1569d9db427d6481fff2e6efb5ca9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/f9e1569d9db427d6481fff2e6efb5ca9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/691c126b165e49475025ccae46194395/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/691c126b165e49475025ccae46194395/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/cf799ce90b73e48775bcfa2d557dcac1/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/cf799ce90b73e48775bcfa2d557dcac1/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/6bcbd6e8ae404a67131fcf07809c8106/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/6bcbd6e8ae404a67131fcf07809c8106/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tatiane/.gradle/caches/transforms-3/8a4357f96530bc320c03d9f0dc2daab2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/tatiane/.gradle/caches/transforms-3/8a4357f96530bc320c03d9f0dc2daab2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/72e6b0ec47b03602f4eb5550ebcc17ef/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/tatiane/.gradle/caches/transforms-3/72e6b0ec47b03602f4eb5550ebcc17ef/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/80b6fe5eb75872bc04df20f576b04f2c/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/80b6fe5eb75872bc04df20f576b04f2c/transformed/lifecycle-livedata-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/5e61130fae81b8051d372d756f58bd02/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/5e61130fae81b8051d372d756f58bd02/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/e4d3866fb4e24293263abe03a56eeaee/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/tatiane/.gradle/caches/transforms-3/e4d3866fb4e24293263abe03a56eeaee/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/4650babcc572a4f48194ac31d4b3dd5d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/tatiane/.gradle/caches/transforms-3/4650babcc572a4f48194ac31d4b3dd5d/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/8286a8c73e719543075a2a8314045dc2/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/tatiane/.gradle/caches/transforms-3/8286a8c73e719543075a2a8314045dc2/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
-		ADDED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/tatiane/AndroidStudioProjects/pokemonApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tatiane/poke_api/app/src/main/AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
-ADDED from [androidx.room:room-runtime:2.3.0] /Users/tatiane/.gradle/caches/transforms-3/2ee1eb2a1959068210a1b14fa62a341e/transformed/room-runtime-2.3.0/AndroidManifest.xml:25:9-28:40
+ADDED from [androidx.room:room-runtime:2.4.0] /Users/tatiane/.gradle/caches/transforms-3/6237d430ccd8f6053e45f5b9ae7db21b/transformed/room-runtime-2.4.0/AndroidManifest.xml:25:9-28:40
 	android:exported
-		ADDED from [androidx.room:room-runtime:2.3.0] /Users/tatiane/.gradle/caches/transforms-3/2ee1eb2a1959068210a1b14fa62a341e/transformed/room-runtime-2.3.0/AndroidManifest.xml:28:13-37
+		ADDED from [androidx.room:room-runtime:2.4.0] /Users/tatiane/.gradle/caches/transforms-3/6237d430ccd8f6053e45f5b9ae7db21b/transformed/room-runtime-2.4.0/AndroidManifest.xml:28:13-37
 	android:directBootAware
-		ADDED from [androidx.room:room-runtime:2.3.0] /Users/tatiane/.gradle/caches/transforms-3/2ee1eb2a1959068210a1b14fa62a341e/transformed/room-runtime-2.3.0/AndroidManifest.xml:27:13-43
+		ADDED from [androidx.room:room-runtime:2.4.0] /Users/tatiane/.gradle/caches/transforms-3/6237d430ccd8f6053e45f5b9ae7db21b/transformed/room-runtime-2.4.0/AndroidManifest.xml:27:13-43
 	android:name
-		ADDED from [androidx.room:room-runtime:2.3.0] /Users/tatiane/.gradle/caches/transforms-3/2ee1eb2a1959068210a1b14fa62a341e/transformed/room-runtime-2.3.0/AndroidManifest.xml:26:13-74
+		ADDED from [androidx.room:room-runtime:2.4.0] /Users/tatiane/.gradle/caches/transforms-3/6237d430ccd8f6053e45f5b9ae7db21b/transformed/room-runtime-2.4.0/AndroidManifest.xml:26:13-74
